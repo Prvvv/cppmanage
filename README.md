@@ -1,5 +1,5 @@
 # cppmanage
-A simple but efficient local password manager written in C++
+A simple but efficient local password manager 
 
 ## About 
 
