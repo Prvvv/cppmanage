@@ -1,5 +1,6 @@
 # cppmanage
-A simple but efficient local password manager 
+> A simple but efficient local password manager, for further information or queries contact me at: ***prv@anche.no***
+
 
 ## About 
 
